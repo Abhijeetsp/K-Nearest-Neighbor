@@ -11,3 +11,4 @@ Step 4: Assign the new data points to the category where you counted the most ne
 Step 5: The model is ready.<br>
 
 ![Example](Example.png)
+Now as per algorithm when we receive a new data point we would check the k nearest neighbor as in the example we can see in this example we have 3 neighbors of category one while 2 neighbors of category 2. The category has the most neighbors is the one where data point belong.is the one where the new data point lies.
